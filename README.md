@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, i'm Lucas 👋
 
-<!--
-**lucasjs0/lucasjs0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 I'm a Front-end Developer, but I'm also developing Back-end skills.
 
-Here are some ideas to get you started:
+- 🧑‍💻 I'm learning JavaScript, Node.js, React, and other related skills at [Rocketseat](https://www.rocketseat.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️Skills
+
+- Front-end: `HTML5`, `CSS3`, `JavaScript`, `React`
+- Back-end: `Node.js`
+- Layout Design: `Figma`
+- Version Control: `Git & Github`
+
+### More about me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-janaudis-soares/)
+
+
+
+
