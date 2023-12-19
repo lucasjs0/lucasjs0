@@ -1,13 +1,15 @@
 # Hi there, i'm Lucas 👋
 
-- 📝 I'm a Front-end Developer, but I'm also developing Back-end skills.
+- 📝 I'm a Salesforce Developer.
 
-- 🧑‍💻 I'm learning JavaScript, Node.js, React, and other related skills at [Rocketseat](https://www.rocketseat.com.br/)
+- 😃 I have learned JavaScript, Node.js, React, and other related skills during my time in the bootcamp at [Rocketseat](https://www.rocketseat.com.br/).
+
+- 💻 After a period of studying frontend, I decided to explore new areas and ended up taking [Sottelli](https://sottelli.com/) training specializing in Salesforce. During the training, I identified with the area and started to delve into Salesforce development. Nowadays, I am actively developing my skills using Trailhead and working towards obtaining certifications.
 
 ## 🛠️Skills
 
-- Front-end: `HTML5`, `CSS3`, `JavaScript`, `React`
-- Back-end: `Node.js`
+- Front-end: `LWC`, `HTML5`, `CSS3`, `JavaScript`, `React`
+- Back-end:  `APEX`, `Node.js`
 - Layout Design: `Figma`
 - Version Control: `Git & Github`
 
