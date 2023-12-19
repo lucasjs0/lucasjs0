@@ -15,7 +15,8 @@
 
 ### More about me
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-janaudis-soares/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-janaudis-soares/) [![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/lucasjs0)
+
 
 
 
